@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Tom\Dev\Repos\pge-custom-render-test\lightSource.h(33,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\lightSource.h(34,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\lightSource.h(40,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(76,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(76,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(110,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(111,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(113,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(113,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(138,65): warning C4244: 'argument': conversion from 'float' to 'const T', possible loss of data
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(138,65): warning C4244:         with
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(138,65): warning C4244:         [
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(138,65): warning C4244:             T=int32_t
+C:\Tom\Dev\Repos\pge-custom-render-test\main.cpp(138,65): warning C4244:         ]
+  pge-custom-render-test.vcxproj -> C:\Tom\Dev\Repos\pge-custom-render-test\x64\Debug\pge-custom-render-test.exe
